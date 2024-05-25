@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lr4TREE", "lr4TREE\lr4TREE.csproj", "{DD6EC4EA-4997-4A36-AE4A-D3CFC005B531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6EC4EA-4997-4A36-AE4A-D3CFC005B531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6EC4EA-4997-4A36-AE4A-D3CFC005B531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6EC4EA-4997-4A36-AE4A-D3CFC005B531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6EC4EA-4997-4A36-AE4A-D3CFC005B531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A71A9A50-34A6-40E1-94A9-F5BD6FDE728C}
+	EndGlobalSection
+EndGlobal
